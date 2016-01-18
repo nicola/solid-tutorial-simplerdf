@@ -1,2 +1,3 @@
-# solid-tutorial-simplerdf
-Simple tutorial to use SimpleRDF with Solid
+# Using SimpleRDF with Solid
+
+This is a simple tutorial to use the library [SimpleRDF](https://github.com/nicola/simplerdf)
